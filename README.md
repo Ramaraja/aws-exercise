@@ -1,0 +1,2 @@
+# aws-exercise
+AWS Handout
